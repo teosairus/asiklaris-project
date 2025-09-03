@@ -28,7 +28,7 @@ export default function App() {
   ];
 
   const router = createBrowserRouter(routes, {
-    basename: "/asiklaris-project",
+    basename: "/asiklaris-project/",
     future: {
       v7_relativeSplatPath: true,
     },
