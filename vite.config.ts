@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 export default defineConfig(() => {
   return {
     plugins: [react()],
-    base: "/",
+    base: "/asiklaris-project/",
     server: {
       open: true,
       port: 3000,
