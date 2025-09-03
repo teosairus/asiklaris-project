@@ -1,0 +1,5 @@
+Thessaloniki also known as Thessalonica, Saloniki or Salonica is the second-largest city in Greece, with over 1 million inhabitants in its metropolitan area, and the capital of the geographic region of Macedonia, the administrative region of Central Macedonia and the Decentralized Administration of Macedonia and Thrace. It is also known in Greek as Simprotévousa, literally "the co-capital", a reference to its historical status as the Simvasilévousa or "co-reigning" city of the Eastern Roman (Byzantine) Empire, alongside Constantinople. Salonikia VKF is the first font in VKF family and it is a handwritten font, only capitals. VKF Family is a font collection in which each font is going to have its own name by the Greek places like Thessaloniki, Athens, Patra etc. More fonts coming soon. Thank you!
+
+License: Free Commercial use
+
+https://www.behance.net/vasiliskanaris
